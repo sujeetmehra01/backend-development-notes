@@ -196,9 +196,3 @@ Choose NoSQL for dynamic/unstructured data, real-time needs, elastic scalability
 6. Analyze load balancing for availability and two strategies (reverse proxy with health checks; DNS or L4/L7 distribution).[6][7]
 
 ---
-
-Notes on formatting choices:
-
-- Headings start with a single H1 and proceed with H2/H3 for clarity per common Markdown style guides.[5][4]
-- Bulleted and numbered lists are used to break up dense text and improve readability in README contexts.[1][3]
-- Technical phrasing is concise for scanning while preserving completeness for beginner backend readers.[2][3]
